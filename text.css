@@ -1,0 +1,13 @@
+img {float: left; width: 179px;
+     border-width: 3px 3px;
+     border-style: outset ;
+     padding: 0px}
+body {background-color: rgb(234, 247, 179)}
+p   {font-family: "標楷體";}
+h2  {font-family: "標楷體";
+     color:#6f62e6;}
+h3  {font-family: "標楷體";}
+ul  {font-family: "標楷體";}
+table  {font-family: "標楷體";}
+video {float: right;
+       padding-right: 13ex;}
